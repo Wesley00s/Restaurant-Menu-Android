@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Restaurant Menu</string>
+    <string name="coffe">Coffe</string>
+    <string name="coffe_image">Coffe image</string>
+    <string name="quantity">Quantity:</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="bread">Bread</string>
+    <string name="order_resume">======== ORDER RESUME ========</string>
+</resources>

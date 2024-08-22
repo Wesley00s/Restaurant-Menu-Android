@@ -1,4 +1,4 @@
-package com.example.coin.login.extra.extra.restaurant.menu
+package com.restaurant.menu
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

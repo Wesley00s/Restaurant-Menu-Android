@@ -1,4 +1,4 @@
-package com.example.coin.login.extra.extra.restaurant.menu
+package com.restaurant.menu
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,7 +7,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import java.util.logging.Handler
+import com.example.coin.login.extra.extra.restaurant.menu.R
 
 class SplashScreenActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
